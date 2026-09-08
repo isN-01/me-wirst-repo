@@ -6,5 +6,5 @@ Git[^1]
 **ll**
 ~~kkk~~
 <lll>  
-[сылка] (ya.ru) 
+[сылка] (github.com) 
 Git[^1]: Git 
