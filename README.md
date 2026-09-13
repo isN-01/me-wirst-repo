@@ -1,7 +1,4 @@
 # me-wirst-repo
 мой первый репозиторий.
-<!DOCTYPE html>
-<html lang="ru">
-<head> ... </head>
-<body> ... </body>
-</html>
+<h1 id="алексей-смирнов">Алексей Смирнов <code>Junior Web Developer</code></h1>
+<p><em>Студент колледжа, увлеченный ...</em></p>
