@@ -1,4 +1,7 @@
 # me-wirst-repo
 мой первый репозиторий.
-<p align="center">
-## **Оглавление**
+<!DOCTYPE html>
+<html lang="ru">
+<head> ... </head>
+<body> ... </body>
+</html>
