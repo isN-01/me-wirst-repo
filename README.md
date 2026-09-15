@@ -16,12 +16,12 @@
 
   <div class="callout callout-note">
     <div class="callout-title">ℹ️ Note</div>
-    В данный момент я активно ищу учебную практику или ментора по направлению <strong>Frontend / DevOps</strong>.
+    В данный момент я активно ищу учебную практику или ментора по направлению Frontend / Pyhton.
   </div>
 
   <div class="callout callout-tip">
     <div class="callout-title">💡 Tip</div>
-    При написании коммитов я строго придерживаюсь формата Conventional Commits: <code>feat:</code>, <code>fix:</code>, <code>refactor:</code>, <code>docs:</code>.
+    Я только начинаю изучать файлы git, поэтому стараюсь писать понятные коммиты: <code>feat:</code>, <code>fix:</code>, <code>refactor:</code>, <code>docs:</code>.
   </div>
 
   <hr>
@@ -39,29 +39,34 @@
     </thead>
     <tbody>
       <tr>
-        <td style="text-align: left;"><strong>Git &amp; Git Bash</strong></td>
-        <td style="text-align: center;">Базовый CLI</td>
-        <td style="text-align: right;">30+ часов практики</td>
+        <td style="text-align: left;"><strong>Школьная информатика</strong></td>
+        <td style="text-align: center;">Базовый</td>
+        <td style="text-align: right;">11 классов</td>
       </tr>
       <tr>
-        <td style="text-align: left;"><strong>VS Code &amp; Plugins</strong></td>
-        <td style="text-align: center;">Продвинутый</td>
-        <td style="text-align: right;">Ежедневная среда</td>
+        <td style="text-align: left;"><strong>Git &amp; GitHub</strong></td>
+        <td style="text-align: center;">Начинающий</td>
+        <td style="text-align: right;">Первые шаги</td>
+      </tr>
+      <tr>
+        <td style="text-align: left;"><strong>VS Code</strong></td>
+        <td style="text-align: center;">Базовый</td>
+        <td style="text-align: right;">Недавно установил</td>
       </tr>
       <tr>
         <td style="text-align: left;"><strong>HTML5 &amp; CSS3</strong></td>
-        <td style="text-align: center;">Уверенный | Семантика</td>
-        <td style="text-align: right;">4 учебных проекта</td>
+        <td style="text-align: center;">В процессе изучения</td>
+        <td style="text-align: right;">Учебные задания</td>
       </tr>
       <tr>
-        <td style="text-align: left;"><strong>JavaScript (ES6+)</strong></td>
-        <td style="text-align: center;">В процессе изучения</td>
-        <td style="text-align: right;">Решение задач</td>
+        <td style="text-align: left;"><strong>Python</strong></td>
+        <td style="text-align: center;">Начальный</td>
+        <td style="text-align: right;">Школьный курс</td>
       </tr>
       <tr>
         <td style="text-align: left;"><strong>Markdown / GFM</strong></td>
-        <td style="text-align: center;">Свободно</td>
-        <td style="text-align: right;">Документирование</td>
+        <td style="text-align: center;">Базовый</td>
+        <td style="text-align: right;">Оформление README</td>
       </tr>
     </tbody>
   </table>
@@ -73,17 +78,16 @@
 
   <h3>1. Освоение инструментов (Hard Skills)</h3>
   <ul>
-    <li class="task-list-item"><input type="checkbox" checked disabled> Освоить навигацию в терминале без мыши (<code>cd</code>, <code>pwd</code>, <code>ls</code>, <code>mkdir</code>)</li>
-    <li class="task-list-item"><input type="checkbox" checked disabled> Оформить визитку профиля на GitHub через Markdown</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Опубликовать проект на бесплатном хостинге GitHub Pages</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Настроить автоматический линтинг через GitHub Actions</li>
+    <li class="task-list-item"><input type="checkbox" checked disabled> Установить Git и VS Code</li>
+    <li class="task-list-item"><input type="checkbox" disabled> Освоить навигацию в терминале (<code>cd</code>, <code>pwd</code>, <code>ls</code>, <code>mkdir</code>)</li>
+    <li class="task-list-item"><input type="checkbox" disabled> Выучить основы HTML и CSS</li>
+    <li class="task-list-item"><input type="checkbox" disabled> Начать изучать JavaScript</li>
   </ul>
 
   <h3>2. Учебные и карьерные цели</h3>
   <ul>
     <li class="task-list-item"><input type="checkbox" checked disabled> Создать профиль на GitHub и залить первый репозиторий</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Собрать портфолио минимум из 3 полноценных проектов</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Провести первое совместное код-ревью через Pull Request</li>
+    <li class="task-list-item"><input type="checkbox" disabled> Найти наставника или учебную практику</li>
   </ul>
 
   <hr>
@@ -128,8 +132,8 @@ echo "Каркас проекта успешно развернут!"</code></pr
 
   <ul>
     <li><strong>Учебное заведение:</strong> Колледж цифровых технологий</li>
-    <li><strong>Группа:</strong> ИСП-21</li>
-    <li><strong>Прямая почта:</strong> <a href="mailto:student@college.edu">student@college.edu</a></li>
+    <li><strong>Группа:</strong> ИP-26</li>
+    <li><strong>Прямая почта:</strong> <a href="mailto:islamnigamatullin0@gmail.com">islamnigamatullin0@gmail.com</a></li>
   </ul>
 
   <div class="footnotes">
