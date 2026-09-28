@@ -1,4 +1,4 @@
- <h1 id="начинающий-программист">Начинающий программист <code>Junior Developer</code></h1>
+ <h1 id="начинающий-программист">Нигаматуллин Ислам <code>Junior Developer</code></h1>
 
   <p><em>Выпускник 11 классов. Владею только школьной программой по информатике, но хочу развиваться в веб-разработке и программировании.</em></p>
 
@@ -140,7 +140,7 @@ echo "Каркас проекта успешно развернут!"</code></pr
 
   <ul>
     <li><strong>Образование:</strong> 11 классов</li>
-    <li><strong>Почта:</strong> <a href="mailto:beginner@example.com">beginner@example.com</a></li>
+    <li><strong>Почта:</strong> <a href="mailto:beginner@example.com">Islamnigamatullin0@gmail.com</a></li>
   </ul>
 
   <div class="footnotes">
