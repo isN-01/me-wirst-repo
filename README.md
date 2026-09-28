@@ -115,7 +115,7 @@ echo "Каркас проекта успешно развернут!"</code></pr
 
   <div class="callout callout-warning">
     <div class="callout-title">⚠️ Warning</div>
-    Никогда не коммитьте системные файлы Windows (<code>Thumbs.db</code>, <code>desktop.ini</code>) и файлы окружения (<code>.env</code>) в открытый репозиторий! Всегда добавляйте их в <code>.gitignore</code>.
+    Никогда не коммитьте системные файлы Windows (<code>Thumbs.db</code>, <code>desktop.ini</code>).gitignore</code>.
   </div>
 
   <hr>
