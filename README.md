@@ -87,7 +87,6 @@
     <li class="task-list-item"><input type="checkbox" checked disabled> Установить Git и VS Code</li>
     <li class="task-list-item"><input type="checkbox" disabled> Освоить навигацию в терминале (<code>cd</code>, <code>pwd</code>, <code>ls</code>, <code>mkdir</code>)</li>
     <li class="task-list-item"><input type="checkbox" disabled> Выучить основы HTML и CSS</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Начать изучать JavaScript</li>
   </ul>
 
   <h3>2. Учебные и карьерные цели</h3>
