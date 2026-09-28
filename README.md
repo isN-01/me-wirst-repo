@@ -93,8 +93,6 @@
   <ul>
     <li class="task-list-item"><input type="checkbox" checked disabled> Создать профиль на GitHub</li>
     <li class="task-list-item"><input type="checkbox" disabled> Залить первый репозиторий</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Сделать первый Pull Request</li>
-    <li class="task-list-item"><input type="checkbox" disabled> Найти наставника или учебную практику</li>
   </ul>
 
   <hr>
